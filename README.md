@@ -2,6 +2,8 @@
 
 https://workat.tech/machine-coding/tutorial/software-design-principles-dry-yagni-eytrxfhz1fla
 
+https://web.archive.org/web/20191116231621/https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf
+
 https://www.itexico.com/blog/software-development-kiss-yagni-dry-3-principles-to-simplify-your-life
 
 https://www.educative.io/answers/what-are-yagni-dry-and-kiss-principles-in-software-development
