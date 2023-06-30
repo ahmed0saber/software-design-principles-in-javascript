@@ -1,5 +1,13 @@
 # software-design-principles-in-javascript
 
+A GitHub repository that can help you clean your code.
+
+## Clean Code in JavaScript (Video Tutorial by Ahmed Saber)
+
+https://www.linkedin.com/feed/update/urn:li:activity:7053836278924009472/
+
+## Other Resorces
+
 https://workat.tech/machine-coding/tutorial/software-design-principles-dry-yagni-eytrxfhz1fla
 
 https://web.archive.org/web/20191116231621/https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf
